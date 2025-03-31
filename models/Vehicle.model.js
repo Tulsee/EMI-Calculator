@@ -12,11 +12,12 @@ const VehicleModelSchema = new mongoose.Schema({
     type: Number,
     required: true,
   },
-  createdAt: {
-    type: Date,
-    default: Date.now,
+  vehicleType: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "VehicleType",
+    required: true,
   },
-  updatedAt: {
+  createdAt: {
     type: Date,
     default: Date.now,
   },

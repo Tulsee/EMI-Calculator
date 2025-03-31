@@ -1,0 +1,7002 @@
+[
+  {
+    "model": "Cruiser",
+    "variant": "Eco",
+    "price": 14129.96,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 8901.84,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 15962.77,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Eco",
+    "price": 48837.91,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Eco",
+    "price": 32269.82,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 1178.93,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 32145.57,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Premium",
+    "price": 41920.72,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 10795.64,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 21265.94,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Deluxe",
+    "price": 15286.97,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 46418.29,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 9960.87,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 33519.96,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Ultimate",
+    "price": 3299.99,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 35882.16,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 22731.57,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 24864.96,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 37964.01,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 14701.81,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 34168.77,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 33556.45,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 36089.75,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 38033.75,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Xtreme",
+    "price": 39231.8,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 26290.83,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 16664.73,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 21965.96,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 2931.0,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 6991.94,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 7770.45,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 42337.69,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Premium",
+    "price": 34221.8,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Xtreme",
+    "price": 16718.45,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 41548.05,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 7805.84,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Limited",
+    "price": 22073.96,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Sport",
+    "price": 11413.9,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Sport",
+    "price": 1788.61,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 32195.2,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 26215.02,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Pro",
+    "price": 11762.14,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Pro",
+    "price": 5612.08,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 22556.46,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 45115.58,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 4644.1,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 34205.84,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 42956.63,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 22827.67,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 44382.62,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Deluxe",
+    "price": 5540.27,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 2124.04,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 19249.18,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 46389.95,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 48497.07,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 1870.0,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 29600.21,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 3994.49,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 6894.59,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Sport",
+    "price": 46563.74,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 16376.6,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Basic",
+    "price": 30963.12,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 15985.87,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 48261.54,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 3368.31,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 6648.32,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 45605.04,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 27536.34,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 31069.76,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 25822.65,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Standard",
+    "price": 22087.03,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 32247.23,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Sport",
+    "price": 9653.36,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 8619.14,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Premium",
+    "price": 46719.94,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 48458.42,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 45029.73,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Premium",
+    "price": 22255.75,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 36585.0,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Deluxe",
+    "price": 41308.6,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 48929.68,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 31947.5,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Premium",
+    "price": 18388.61,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 38401.62,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Sport",
+    "price": 12023.43,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Pro",
+    "price": 2992.15,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 12781.13,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 24519.48,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 42677.58,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 40935.51,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 6854.68,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Standard",
+    "price": 41643.15,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 13743.75,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 17050.96,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 31955.54,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Premium",
+    "price": 31098.22,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Basic",
+    "price": 25456.54,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Standard",
+    "price": 24839.84,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 3614.71,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 37391.72,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Ultimate",
+    "price": 23194.67,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 25713.52,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 32584.57,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 40674.85,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 38016.31,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 36433.99,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 32279.29,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 17419.98,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 7880.84,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 28784.06,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 13764.58,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Deluxe",
+    "price": 30181.6,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 36548.67,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 40662.36,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 11258.67,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 25904.71,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Eco",
+    "price": 38620.93,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 15579.58,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Xtreme",
+    "price": 43716.11,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 24542.13,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Eco",
+    "price": 47934.55,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 42797.07,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 16624.31,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 40769.46,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Ultimate",
+    "price": 47132.22,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 33028.8,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 8013.43,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 39967.2,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Pro",
+    "price": 5612.24,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 13731.0,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Sport",
+    "price": 46113.04,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 32736.61,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Ultimate",
+    "price": 42811.63,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 41032.56,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 36531.64,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 5736.5,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 29389.36,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 9142.85,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 34232.14,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 45345.39,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 31968.87,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Basic",
+    "price": 37476.98,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 16669.34,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 11122.16,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Ultimate",
+    "price": 46615.21,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 49732.51,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 45755.11,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 47191.57,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Basic",
+    "price": 45295.64,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Ultimate",
+    "price": 5070.92,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 16121.58,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 28666.95,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 44001.2,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 30747.35,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Ultimate",
+    "price": 20786.49,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Ultimate",
+    "price": 48461.35,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 38848.71,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 33541.85,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 2518.01,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 18568.84,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 23599.41,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 9981.94,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Xtreme",
+    "price": 45280.42,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Basic",
+    "price": 23872.16,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 15039.35,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Standard",
+    "price": 38466.86,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 33662.95,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 7956.7,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 42510.2,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 13199.01,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 39768.02,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 42692.46,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 31061.5,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 781.08,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 24454.16,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 24249.44,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 28621.03,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 43174.55,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 9734.55,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Sport",
+    "price": 3687.17,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Pro",
+    "price": 42843.36,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 33639.34,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Basic",
+    "price": 26668.11,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Premium",
+    "price": 5865.51,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Xtreme",
+    "price": 9274.08,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 16284.72,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Basic",
+    "price": 5438.55,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Ultimate",
+    "price": 24251.77,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 18814.6,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 2026.07,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 42780.04,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 24668.62,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 41722.16,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 12614.8,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 47152.4,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 24802.68,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 22771.91,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 43421.87,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Eco",
+    "price": 18542.4,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 41006.64,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 31349.5,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 34605.04,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 21428.98,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Premium",
+    "price": 48625.27,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 3395.55,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 27747.53,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 44376.7,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Pro",
+    "price": 33894.67,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 35724.03,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 41306.06,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Xtreme",
+    "price": 39361.84,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Ultimate",
+    "price": 22611.57,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 30340.81,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Sport",
+    "price": 33175.0,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Pro",
+    "price": 8681.06,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Premium",
+    "price": 11418.76,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 45845.64,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Pro",
+    "price": 19648.17,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 49472.32,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Pro",
+    "price": 38793.94,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 48537.77,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 31212.62,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 3128.12,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 7862.8,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 31715.14,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 26381.61,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 21853.34,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 31430.91,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Sport",
+    "price": 49663.73,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Limited",
+    "price": 24671.04,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 2344.8,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 48888.95,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 34652.36,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Standard",
+    "price": 37694.58,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 10206.32,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Basic",
+    "price": 3095.25,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 33749.98,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 2750.65,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 21853.12,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 13504.52,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 33013.74,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 26578.68,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 33564.12,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 14714.59,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 34421.11,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 29478.58,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 25883.04,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 32478.33,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 44193.5,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 21946.15,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 30448.54,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Eco",
+    "price": 12273.41,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 29244.06,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Deluxe",
+    "price": 11941.63,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 37962.66,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 2319.17,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 25712.89,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Ultimate",
+    "price": 26389.95,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Basic",
+    "price": 19407.86,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 14072.11,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Ultimate",
+    "price": 20298.33,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 40721.09,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 10907.19,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 27488.87,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 4354.15,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 25595.27,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Sport",
+    "price": 49605.48,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Ultimate",
+    "price": 19719.41,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Sport",
+    "price": 21735.07,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Ultimate",
+    "price": 31310.61,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 2075.11,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Pro",
+    "price": 43746.45,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 891.4,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Xtreme",
+    "price": 4688.49,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 28341.71,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Pro",
+    "price": 39044.8,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 41237.58,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Eco",
+    "price": 6973.63,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 38149.49,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Eco",
+    "price": 12022.71,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 30485.81,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 22205.1,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 16039.4,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 28762.08,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 41050.48,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 16774.92,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 9992.69,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 48105.12,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 8400.0,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 7026.17,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Basic",
+    "price": 7293.29,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 5171.73,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 41220.49,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 42123.16,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Sport",
+    "price": 23079.17,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 38145.8,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Standard",
+    "price": 12479.05,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 21012.58,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Pro",
+    "price": 11815.24,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 28475.94,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Ultimate",
+    "price": 20764.27,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Deluxe",
+    "price": 18819.63,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Premium",
+    "price": 45783.46,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 42130.52,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 1502.37,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 21239.66,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Basic",
+    "price": 34401.55,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 3365.36,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Deluxe",
+    "price": 17938.54,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 17100.4,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 16472.41,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Eco",
+    "price": 41786.97,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Ultimate",
+    "price": 29973.09,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Ultimate",
+    "price": 19359.1,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 13464.31,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Basic",
+    "price": 24422.08,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 31476.16,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 32465.04,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 39459.95,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Pro",
+    "price": 19345.81,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 9027.63,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Eco",
+    "price": 44284.49,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 1981.25,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 37657.96,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 42129.85,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 49411.07,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Standard",
+    "price": 27343.59,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 15543.89,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 17950.7,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 41329.19,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 7322.71,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Premium",
+    "price": 18227.06,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 17595.62,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 22609.31,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 32738.62,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 6111.68,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 43308.04,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Standard",
+    "price": 46400.51,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 45074.03,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 22473.96,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Xtreme",
+    "price": 18375.87,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 22470.87,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 39265.04,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 29649.79,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 7687.63,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Limited",
+    "price": 32682.93,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 39686.46,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 35350.33,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 32232.31,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 3936.92,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 1035.47,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 39747.89,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 12137.0,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Ultimate",
+    "price": 33667.61,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Basic",
+    "price": 6070.2,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Xtreme",
+    "price": 23292.79,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 8777.08,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Xtreme",
+    "price": 19480.18,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 24095.77,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 1688.14,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Xtreme",
+    "price": 14057.43,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 20671.68,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Premium",
+    "price": 41355.67,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 27493.36,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 10374.84,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 6499.72,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 10877.06,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 10957.75,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 6418.24,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 43735.17,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 15484.49,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 45242.53,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 21438.68,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 28216.17,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 16906.31,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 17964.04,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 25021.56,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 42344.21,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Sport",
+    "price": 10174.86,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 22738.13,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 44193.09,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 24426.86,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Eco",
+    "price": 16052.69,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Xtreme",
+    "price": 34791.62,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 37138.58,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 28710.0,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 37062.52,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 27645.62,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Deluxe",
+    "price": 37248.73,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 2434.08,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 49389.43,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 9553.52,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Sport",
+    "price": 33353.46,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 4775.29,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 17220.09,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 44686.76,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 32348.1,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 18423.48,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 31534.63,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 29329.31,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 24985.98,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 47502.61,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 23131.89,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 6793.94,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 13565.52,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Ultimate",
+    "price": 23726.54,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 18745.23,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 30798.74,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Premium",
+    "price": 49509.48,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Sport",
+    "price": 31775.66,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 36960.13,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 26413.73,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 17896.22,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 26597.2,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Xtreme",
+    "price": 30436.19,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 30307.53,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 21585.3,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 5075.36,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 1647.03,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Basic",
+    "price": 49521.41,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Pro",
+    "price": 47525.21,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Basic",
+    "price": 41227.2,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Basic",
+    "price": 20300.96,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Eco",
+    "price": 6681.01,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Premium",
+    "price": 32764.82,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 43307.43,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 3097.32,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 38226.0,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 44000.45,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 49493.62,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 5072.04,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 17254.18,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Ultimate",
+    "price": 13039.32,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 35472.22,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 30382.16,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Xtreme",
+    "price": 39069.59,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Ultimate",
+    "price": 15752.61,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Basic",
+    "price": 45881.58,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 16681.52,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 40638.11,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 46687.25,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Deluxe",
+    "price": 19971.66,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Premium",
+    "price": 15722.62,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 1270.0,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 22600.13,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 3179.29,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 24622.13,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Sport",
+    "price": 14706.23,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 29756.82,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 29768.32,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 42473.19,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 27065.79,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 27246.22,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 46406.33,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 48924.17,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 6096.91,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 34628.31,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Ultimate",
+    "price": 2420.26,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Sport",
+    "price": 5834.03,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Ultimate",
+    "price": 26900.99,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Basic",
+    "price": 10552.19,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 13981.58,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 19071.96,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 14378.75,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 37758.62,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Ultimate",
+    "price": 17481.27,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 20804.98,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 21734.2,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 37448.68,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 39187.94,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 7369.36,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Limited",
+    "price": 18006.31,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 23692.61,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 23894.37,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 20541.56,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 33892.98,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 23306.07,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Eco",
+    "price": 32767.24,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Sport",
+    "price": 43360.22,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 24745.67,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Standard",
+    "price": 42635.69,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 34372.75,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 41340.81,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 41129.38,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Sport",
+    "price": 5337.63,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Ultimate",
+    "price": 3139.95,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Xtreme",
+    "price": 19966.97,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 34305.65,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Sport",
+    "price": 29357.54,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Pro",
+    "price": 26400.83,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 8856.71,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 23426.69,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Sport",
+    "price": 40285.14,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 34191.58,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Ultimate",
+    "price": 18805.73,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 27621.46,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Basic",
+    "price": 11913.3,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 13103.88,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 8578.95,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 5239.36,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 15351.44,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 10472.92,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 39409.85,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 12287.87,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Standard",
+    "price": 49009.91,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Standard",
+    "price": 17939.59,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 14022.57,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 29374.27,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 27010.18,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Premium",
+    "price": 21533.22,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 39938.37,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 36175.81,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 34383.27,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Basic",
+    "price": 32101.69,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Limited",
+    "price": 24243.58,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 22205.23,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 23583.25,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 45888.79,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 13417.12,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 27533.0,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 37614.39,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Eco",
+    "price": 21421.13,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Deluxe",
+    "price": 38594.81,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Ultimate",
+    "price": 8553.0,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 35005.93,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 8106.15,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 32862.73,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 11770.28,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Sport",
+    "price": 6599.02,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Xtreme",
+    "price": 22062.91,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 13492.09,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Premium",
+    "price": 17488.27,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 39459.73,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Premium",
+    "price": 36825.61,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Deluxe",
+    "price": 17691.59,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 16382.68,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 29862.43,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 1840.58,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Pro",
+    "price": 9262.35,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 5226.1,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 2811.08,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Sport",
+    "price": 23272.51,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 4426.49,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Pro",
+    "price": 31288.64,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Basic",
+    "price": 6357.93,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 24952.11,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Pro",
+    "price": 22251.48,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 31204.78,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 4766.68,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 17054.88,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 17039.67,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 36056.68,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Sport",
+    "price": 48340.83,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Xtreme",
+    "price": 33705.79,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 18669.17,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Deluxe",
+    "price": 4899.1,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 43934.98,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 12097.36,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 25750.8,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 33130.64,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 2468.9,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 12193.5,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Sport",
+    "price": 29225.59,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 30411.71,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 9178.64,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Ultimate",
+    "price": 39391.28,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Ultimate",
+    "price": 3508.65,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 33134.02,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Sport",
+    "price": 12757.42,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Eco",
+    "price": 3106.1,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 4769.62,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 19227.66,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 25366.3,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 45128.47,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Eco",
+    "price": 47849.95,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 48070.76,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 18294.67,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 17317.07,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 42601.7,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 19183.19,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 46732.81,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 23471.95,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 25445.86,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Sport",
+    "price": 7049.76,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 1723.18,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 29014.69,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Xtreme",
+    "price": 36479.31,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Premium",
+    "price": 20687.22,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Sport",
+    "price": 37349.26,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 20003.73,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 2648.64,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 3204.68,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 36427.54,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 35091.84,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Premium",
+    "price": 37056.47,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Deluxe",
+    "price": 47654.0,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Limited",
+    "price": 20268.94,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Sport",
+    "price": 15013.42,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Basic",
+    "price": 34079.02,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 29797.24,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 1181.99,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 7481.45,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 44314.1,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Pro",
+    "price": 27586.18,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Ultimate",
+    "price": 40918.09,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 3594.35,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 33988.0,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 11607.56,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 29730.05,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 28884.86,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Basic",
+    "price": 12846.26,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Premium",
+    "price": 46563.03,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 20885.84,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Standard",
+    "price": 18164.54,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 29036.77,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 4040.46,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 36035.7,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 34952.72,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Pro",
+    "price": 30856.52,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 5719.63,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 21002.6,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 41449.06,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 11030.23,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Xtreme",
+    "price": 25970.05,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 18370.15,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Ultimate",
+    "price": 17562.02,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 13514.78,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 3838.98,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Basic",
+    "price": 6764.22,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 49522.34,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Standard",
+    "price": 42953.87,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Basic",
+    "price": 20557.65,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 38891.33,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 22592.54,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Xtreme",
+    "price": 41849.65,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 13769.66,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Xtreme",
+    "price": 17870.48,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 31642.58,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 17220.08,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Premium",
+    "price": 21363.43,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 15982.77,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 19392.91,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 24364.96,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 27965.73,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 5981.22,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 10099.63,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Sport",
+    "price": 44308.0,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Xtreme",
+    "price": 48446.3,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 3948.09,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 8336.86,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 3306.15,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Xtreme",
+    "price": 34780.99,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 48497.17,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Standard",
+    "price": 29316.83,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 11585.17,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 41368.55,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 20585.04,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 2013.95,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 42399.35,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 28129.57,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 16928.8,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Premium",
+    "price": 43615.93,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 48298.18,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 42355.46,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 2013.27,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 26123.2,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Pro",
+    "price": 38844.36,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 14276.01,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Premium",
+    "price": 16235.55,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Ultimate",
+    "price": 31298.14,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 48200.99,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Xtreme",
+    "price": 44686.77,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 11509.01,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 14644.17,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Sport",
+    "price": 35991.54,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 18209.09,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 36224.12,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Sport",
+    "price": 41869.59,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Standard",
+    "price": 45910.14,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 7048.81,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 29039.32,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 18231.85,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Deluxe",
+    "price": 21338.69,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 46706.61,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 44428.54,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 45761.62,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Pro",
+    "price": 41093.02,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 45817.06,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Premium",
+    "price": 35561.44,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 29709.72,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Standard",
+    "price": 47588.01,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 27875.82,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 18536.53,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 5672.31,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Premium",
+    "price": 20873.28,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Eco",
+    "price": 35143.89,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 32570.28,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Basic",
+    "price": 23088.96,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 3281.14,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Standard",
+    "price": 27717.1,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 49309.76,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Limited",
+    "price": 21972.67,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 46258.17,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 38090.56,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 49830.0,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 17050.38,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 18824.33,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 11386.69,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Basic",
+    "price": 39322.35,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Basic",
+    "price": 8762.38,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 18897.44,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Deluxe",
+    "price": 44009.98,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 9228.37,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 38993.23,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 35521.74,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 26624.94,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Basic",
+    "price": 2664.2,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 37971.04,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 5336.41,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 43017.71,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Premium",
+    "price": 4289.88,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Deluxe",
+    "price": 34293.29,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Ultimate",
+    "price": 38919.47,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 2434.14,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 6791.78,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 27864.88,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 44573.77,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 12095.16,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Limited",
+    "price": 49427.75,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Standard",
+    "price": 14857.68,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 41844.8,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 9190.54,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 31435.38,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Sport",
+    "price": 37322.72,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Xtreme",
+    "price": 14537.13,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Deluxe",
+    "price": 8096.12,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Limited",
+    "price": 20564.45,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 34761.3,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Standard",
+    "price": 44926.39,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 34644.39,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 45248.94,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 12891.35,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Ultimate",
+    "price": 30311.37,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 5539.87,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 38127.7,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 3483.93,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 859.68,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Basic",
+    "price": 19023.08,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Ultimate",
+    "price": 25875.12,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Standard",
+    "price": 44465.02,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 7995.66,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Sport",
+    "price": 47146.63,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Pro",
+    "price": 23159.75,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Basic",
+    "price": 19413.04,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Deluxe",
+    "price": 25656.41,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 20527.34,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Ultimate",
+    "price": 49502.7,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 13814.21,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Eco",
+    "price": 39517.68,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Sport",
+    "price": 25111.82,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 49979.33,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Xtreme",
+    "price": 37813.73,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 45257.66,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 19496.2,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Ultimate",
+    "price": 41550.56,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Standard",
+    "price": 20519.81,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 6397.75,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 4790.91,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Eco",
+    "price": 5846.85,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 30867.55,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Basic",
+    "price": 7103.07,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 1113.07,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Ultimate",
+    "price": 10517.62,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 39730.56,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 45869.87,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 36987.62,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 27006.76,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 17364.85,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 48014.32,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 4174.73,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 31249.85,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 19833.52,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Standard",
+    "price": 6410.25,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 28135.38,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 24792.06,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Eco",
+    "price": 26292.09,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 27723.2,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 532.35,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 14329.61,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Xtreme",
+    "price": 44878.61,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Pro",
+    "price": 21785.22,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Premium",
+    "price": 28715.84,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 46220.48,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Standard",
+    "price": 43675.13,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 30594.63,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 49665.67,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Eco",
+    "price": 25367.14,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Pro",
+    "price": 6503.41,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 33551.7,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Ultimate",
+    "price": 5058.41,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Eco",
+    "price": 9411.12,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Xtreme",
+    "price": 46246.01,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 13816.03,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 41767.33,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 23929.53,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 31104.61,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Pro",
+    "price": 17923.53,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 34147.28,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Eco",
+    "price": 747.18,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Premium",
+    "price": 40564.77,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 1387.57,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Premium",
+    "price": 30233.26,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 1194.21,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Standard",
+    "price": 7322.38,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 6380.63,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Deluxe",
+    "price": 15432.07,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 45024.91,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 8408.71,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Limited",
+    "price": 31912.15,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Pro",
+    "price": 2193.09,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 20477.31,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Standard",
+    "price": 45055.03,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 35649.28,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 29918.68,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 1416.04,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Limited",
+    "price": 48128.35,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Sport",
+    "price": 37091.89,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 8095.51,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 3752.27,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 37414.53,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Premium",
+    "price": 43697.31,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 26682.56,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Basic",
+    "price": 25836.1,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Premium",
+    "price": 44494.75,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 3466.36,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 40433.39,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Limited",
+    "price": 42363.85,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 30537.45,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Eco",
+    "price": 35352.8,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Xtreme",
+    "price": 20843.06,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Ultimate",
+    "price": 46719.63,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 49049.35,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Premium",
+    "price": 26937.65,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Basic",
+    "price": 6974.9,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Sport",
+    "price": 35925.42,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 47571.66,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 22255.92,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Basic",
+    "price": 31718.86,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Eco",
+    "price": 39838.87,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 19853.56,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 27637.43,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Eco",
+    "price": 39579.77,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Deluxe",
+    "price": 44356.73,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 6308.86,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 47988.45,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 34199.41,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Standard",
+    "price": 36815.52,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 40597.55,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 18773.28,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 7568.61,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Basic",
+    "price": 45221.13,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Standard",
+    "price": 34449.49,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 7505.47,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Standard",
+    "price": 35844.5,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Pro",
+    "price": 45478.07,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Xtreme",
+    "price": 15643.52,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Premium",
+    "price": 48638.89,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 27442.07,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 48419.67,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Xtreme",
+    "price": 3746.45,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Eco",
+    "price": 27409.96,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Deluxe",
+    "price": 4388.78,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 45555.28,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Premium",
+    "price": 34575.18,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Eco",
+    "price": 48418.99,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Eco",
+    "price": 7270.64,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 44089.42,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Pro",
+    "price": 4255.35,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Sport",
+    "price": 43084.51,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 45415.8,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 34249.14,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 8831.48,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 15262.45,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Ultimate",
+    "price": 14970.38,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 26537.45,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Eco",
+    "price": 35626.82,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 22086.5,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 5618.35,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Sport",
+    "price": 49377.65,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Premium",
+    "price": 27167.32,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 7613.88,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 38688.6,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 4511.98,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 11667.02,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Ultimate",
+    "price": 19628.69,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Premium",
+    "price": 30389.22,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 1182.86,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Ultimate",
+    "price": 2021.8,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Xtreme",
+    "price": 22105.92,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 578.19,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 13017.41,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Pro",
+    "price": 49349.08,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Sport",
+    "price": 45292.34,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 48898.24,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 14550.73,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Pro",
+    "price": 3998.49,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 33958.03,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Deluxe",
+    "price": 44309.27,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Standard",
+    "price": 3831.86,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Standard",
+    "price": 13201.95,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Limited",
+    "price": 21550.05,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 46858.83,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Eco",
+    "price": 9327.63,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Deluxe",
+    "price": 30909.53,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 10528.69,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 21204.37,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Sport",
+    "price": 37863.15,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Standard",
+    "price": 8727.31,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Standard",
+    "price": 36757.83,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 45477.36,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 2296.31,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Limited",
+    "price": 857.3,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Standard",
+    "price": 34467.05,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Limited",
+    "price": 25987.81,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 13141.76,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 42271.18,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Pro",
+    "price": 36701.85,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Premium",
+    "price": 36268.32,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Sport",
+    "price": 13945.26,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 28681.81,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Eco",
+    "price": 10865.1,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 1150.52,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 21408.75,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 42103.28,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Basic",
+    "price": 18775.31,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Ultimate",
+    "price": 44364.04,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 558.32,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Premium",
+    "price": 13654.22,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Sport",
+    "price": 3911.88,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Xtreme",
+    "price": 49275.37,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Xtreme",
+    "price": 49488.2,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Basic",
+    "price": 47303.18,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Eco",
+    "price": 40077.6,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Limited",
+    "price": 16777.36,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Sport",
+    "price": 631.34,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Xtreme",
+    "price": 18904.97,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 47672.18,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 28159.88,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 27663.31,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Sport",
+    "price": 37200.37,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Basic",
+    "price": 28892.61,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Limited",
+    "price": 22051.69,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Eco",
+    "price": 7082.72,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Premium",
+    "price": 33766.47,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Pro",
+    "price": 40858.99,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Deluxe",
+    "price": 40474.7,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Premium",
+    "price": 11450.8,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Ultimate",
+    "price": 29131.64,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Sport",
+    "price": 15476.11,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Pro",
+    "price": 20858.26,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Eco",
+    "price": 17559.75,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Pro",
+    "price": 46417.19,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Deluxe",
+    "price": 24253.83,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 17101.24,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Ultimate",
+    "price": 37019.45,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Standard",
+    "price": 44730.77,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Sport",
+    "price": 37833.42,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Limited",
+    "price": 22272.9,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Basic",
+    "price": 10148.0,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Limited",
+    "price": 23798.49,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Pro",
+    "price": 24602.54,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Limited",
+    "price": 43190.87,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Turbo",
+    "variant": "Standard",
+    "price": 25843.64,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Basic",
+    "price": 21573.13,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Model X",
+    "variant": "Xtreme",
+    "price": 12020.7,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Basic",
+    "price": 15199.25,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Ultimate",
+    "price": 3104.47,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Ultimate",
+    "price": 18886.22,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Eco",
+    "price": 44428.26,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 42305.09,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Eco",
+    "price": 29439.79,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Limited",
+    "price": 34878.29,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Sport",
+    "price": 44673.5,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Xtreme",
+    "price": 7078.59,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Cruiser",
+    "variant": "Xtreme",
+    "price": 39923.68,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Premium",
+    "price": 25767.66,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 24542.77,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Ranger",
+    "variant": "Deluxe",
+    "price": 42839.43,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Eco",
+    "price": 10823.65,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Speedster",
+    "variant": "Standard",
+    "price": 9820.57,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Premium",
+    "price": 8992.44,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Eco",
+    "price": 37297.75,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Xtreme",
+    "price": 44894.67,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Bolt",
+    "variant": "Standard",
+    "price": 19789.34,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Falcon",
+    "variant": "Sport",
+    "price": 25668.62,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Pro",
+    "price": 34038.47,
+    "vehicleType": "Moped",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Voyager",
+    "variant": "Basic",
+    "price": 19844.04,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Eco",
+    "price": 10941.24,
+    "vehicleType": "Four-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Swift",
+    "variant": "Deluxe",
+    "price": 21081.98,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  },
+  {
+    "model": "Striker",
+    "variant": "Sport",
+    "price": 27838.33,
+    "vehicleType": "Two-wheeler",
+    "createdAt": "2025-03-31T00:00:00.000Z"
+  }
+]
