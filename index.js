@@ -2,6 +2,8 @@ import express from "express";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
 
+import VehicleRoute from "./routes/vehicle.route.js";
+
 dotenv.config();
 
 mongoose
@@ -15,9 +17,15 @@ mongoose
 
 const app = express();
 
-app.get("/", (req, res) => {
-  res.send("Hello World!");
-});
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// Routes
+app.use("/api/vehicle", VehicleRoute);
+
+// app.get("/", (req, res) => {
+//   res.send("Hello World!");
+// });
 
 app.listen(8000, () => {
   console.log("Server is running on port 8000");
