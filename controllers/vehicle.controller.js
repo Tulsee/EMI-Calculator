@@ -3,7 +3,6 @@ import VehicleTypes from "../models/VehicleTypes.model.js";
 
 export const createVehicle = async (req, res) => {
   const { model, variant, price, vehicleType } = req.body;
-  console.log(req.body);
 
   if (!model) return res.status(400).json({ message: "Model is required" });
 
@@ -29,7 +28,6 @@ export const createVehicle = async (req, res) => {
 export const getVehicle = async (req, res) => {
   try {
     const { vehicleType, model } = req.query;
-    console.log(req.query);
 
     let filter = {};
 
