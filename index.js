@@ -2,12 +2,13 @@ import express from "express";
 import dotenv from "dotenv";
 import os from "os";
 import mongoose from "mongoose";
+import cors from "cors";
 
 import VehicleRoute from "./routes/vehicle.route.js";
 import VehicleTypesRoute from "./routes/vehicleTypes.route.js";
 
 dotenv.config();
-const PORT = 8000;
+const PORT = 8001;
 
 mongoose
   .connect(process.env.MONGO_URI, { connectTimeoutMS: 10000 })
@@ -19,6 +20,7 @@ mongoose
   });
 
 const app = express();
+app.use(cors());
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
